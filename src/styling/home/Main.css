@@ -1,0 +1,9 @@
+main {
+    margin: 3rem 2rem;
+}
+
+#home-introduction {
+    font-family: "Source Code Pro", monospace;
+    font-weight: bold;
+    font-size: 5rem;
+}

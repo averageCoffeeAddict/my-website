@@ -1,0 +1,30 @@
+header {
+    position: absolute;
+    top: 0;
+    padding: 0.5rem 1.5rem;
+    height: 3rem;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: var(--purple-500);
+}
+
+ul {
+    margin: auto;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li {
+    margin: 0;
+    list-style: none;
+}
+
+a {
+    font-family: "Source Code Pro", monospace;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: var(--purple-100);
+}

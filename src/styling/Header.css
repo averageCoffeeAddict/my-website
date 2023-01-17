@@ -5,7 +5,7 @@ header {
     height: 3rem;
     width: 100%;
     box-sizing: border-box;
-    background-color: var(--purple-500);
+    background-image:  linear-gradient(45deg, var(--purple-500), var(--purple-600));
 }
 
 ul {

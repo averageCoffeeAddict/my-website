@@ -1,11 +1,16 @@
 :root {
-    --purple-100: rgb(219, 214, 255);
+    --purple-100: rgb(242, 240, 255);
     --purple-200: rgb(167, 138, 239);
-    --purple-500: rgb(68, 2, 168);
-    --purple-700: rgb(27, 1, 73);
-    --purple-900: rgb(12, 0, 33);
+    --purple-500: rgb(111, 0, 255);
+    --purple-600: rgb(67, 0, 182);
+    --purple-700: rgb(14, 1, 73);;
+    --purple-900: rgb(0, 0, 0);
+    --gray-700: #0f1428;
+    --gray-900: #03030c;
+    box-sizing: border-box;
 }
 
 body {
-    background-color: var(--purple-100);
+    background-color: var(--gray-700);
+    color: var(--purple-100);
 }

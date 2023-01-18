@@ -29,7 +29,7 @@ export default function Terminal() {
     return (
         <div className="terminal">
             <button className="terminal--close-btn">
-                _
+                <p>_</p>
             </button>
             <div className="terminal--frame">
                 <p className="terminal--text">

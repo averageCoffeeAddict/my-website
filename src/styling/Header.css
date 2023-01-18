@@ -1,8 +1,8 @@
 header {
-    position: absolute;
+    position: fixed;
     top: 0;
     padding: 0.5rem 1.5rem;
-    height: 3rem;
+    height: 2.9rem;
     width: 100%;
     box-sizing: border-box;
     background-image:  linear-gradient(45deg, var(--purple-500), var(--purple-600));
@@ -24,8 +24,8 @@ li {
 a {
     font-family: "Source Code Pro", monospace;
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     text-decoration: none;
-    text-shadow: var(--purple-900) 2px 2px 0;
+    text-shadow: var(--purple-900) 0.15rem 0.15rem;
     color: var(--purple-100);
 }

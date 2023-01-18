@@ -28,6 +28,9 @@ export default function Terminal() {
 
     return (
         <div className="terminal">
+            <button className="terminal--close-btn">
+                _
+            </button>
             <div className="terminal--frame">
                 <p className="terminal--text">
                     {l1} {l2}
